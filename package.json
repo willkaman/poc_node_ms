@@ -1,0 +1,11 @@
+{
+  "name": "poc_node_ms",
+  "version": "1.0.0",
+  "description": "POC microservicio con NodeJS",
+  "main": "launch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
