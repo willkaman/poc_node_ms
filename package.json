@@ -4,8 +4,12 @@
   "description": "POC microservicio con NodeJS",
   "main": "launch.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "launch": "node launch.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Javier Saavedra",
+  "license": "ISC",
+  "dependencies": {
+    "oracledb": "^5.1.0"
+  }
 }
